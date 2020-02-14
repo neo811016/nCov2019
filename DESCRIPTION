@@ -6,7 +6,7 @@ Authors@R: c(
           person("Patrick", "Tung", email = "tung_patrick@yahoo.com", role = "ctb")
           )
 Description: Download statistical number of the Wuhan 2019-nCov cases. 
-Depends: R (>= 3.6.0)
+Depends: R (>= 3.5.2)
 Imports: 
   downloader,
   dplyr,
